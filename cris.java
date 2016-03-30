@@ -7,7 +7,11 @@ public class Fibonacci {
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);
         for (int i = 1; i <= N; i++)
-            StdOut.println(i + ": " + fib(i));
-    }
+
+
+
+
+
+4444444444445555555555555555    }
 
 }
